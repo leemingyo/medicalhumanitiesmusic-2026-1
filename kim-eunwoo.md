@@ -2,10 +2,12 @@
 Title: A Tale of Two Sisters
 Year: 2003
 Genre: Film
+Director: Jee Woon Kim
+Music: No Path Back
+Composer: Byeong Woo Lee
 Disease: Dissociative Identity Disorder
 ICD: F44.8
 ---
-
 https://www.youtube.com/watch?v=T7ra8zPCA9E
 
 # A Tale of Two Sisters
