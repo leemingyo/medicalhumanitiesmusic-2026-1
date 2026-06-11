@@ -28,4 +28,15 @@ Finally, the concept of Auditory Anamnesis introduced in Week 12 offers a compel
 
 <img src="./lee-haeyeon.png" alt="음악과 광기의 미학 이미지" style="width:33%;" />
 
+# Music I Hope Will Be Played at My Own Funeral
+
+Death is often imagined in silence and shadow—but I want my farewell to be different. [BOOM BALA by LE SSERAFIM](https://www.youtube.com/watch?v=lep03GDhFqA) is a track defined by explosive energy and an unstoppable beat. Rather than asking those left behind to sit quietly with their grief, this music demands that emotion be expressed fully, loudly, and without apology.
+A funeral is ultimately a space for the living. Instead of suppressing sorrow beneath formal decorum, I want the people I love to feel free to let it all out—cry, laugh, or simply stand there bewildered. Every reaction is, in its own way, a form of remembrance.
+Like the title itself suggests—boom—I would rather be remembered as someone who went out with a bang than someone who faded quietly away.
+
 # 자신의 장례식에서 연주되길 희망하는 음악
+
+내가 장례식에서 흘렀으면 하는 곡은 [르세라핌의 BOOM BALA](https://www.youtube.com/watch?v=lep03GDhFqA)다.
+죽음은 흔히 침묵과 어둠의 이미지로 표상되지만, 나는 내 마지막 자리를 다르게 만들고 싶다. BOOM BALA는 강렬한 비트와 폭발적인 에너지로, 억압된 감정을 밖으로 터뜨리는 음악이다. 슬픔을 조용히 삭이는 대신, 이 음악은 감정을 있는 그대로 크게, 뜨겁게 표출하도록 만든다.
+장례식이란 남겨진 사람들을 위한 시간이다. 나는 그들이 격식과 체면 속에서 슬픔을 억누르는 대신, 이 음악처럼 온몸으로 감정을 내보낼 수 있기를 바란다. 울어도 좋고, 웃어도 좋고, 어이없어해도 좋다—그 모든 반응이 곧 나를 기억하는 방식이 된다.
+BOOM BALA의 제목처럼, 나의 삶이 조용히 사그라드는 것이 아니라 쾅, 하고 터지듯 기억되었으면 한다.
