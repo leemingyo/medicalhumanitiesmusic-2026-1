@@ -20,12 +20,15 @@ The pinnacle of this subversion is revealed in the scene of Ruby's school choir 
 나아가 버클리 음대 오디션 장면에서 루비는 소리 내어 노래를 부르는 동시에 손으로 수어를 함께 구사함으로써 분리되어 있던 두 세계를 치유적으로 통합하며 리타 샤론의 서사의학적 경청을 무대 위에서 실천합니다. 오디션을 마친 후 집으로 돌아와 아버지가 루비의 목에 손을 대고 성대의 미세한 떨림을 통해 딸의 노래를 온몸으로 '듣는' 촉각적 교감의 장면은 의료인문학적으로 매우 중요한 통찰을 제공합니다. 엘레인 스캐리가 지적했듯 감각의 단절과 신체적 한계는 기존의 언어를 파괴하지만, C.P.E. 바흐가 자신의 통풍 통증을 《환상곡》의 찌르고 배회하는 격렬한 패시지로 번역해 냈듯이 루비의 가족은 소리를 물리적 진동으로 변환하는 '음악적 신체화(Somatization)'를 통해 새로운 차원의 소통을 창조합니다.
 이 영화에서 음악은 단순히 '귀로 듣는 청각적 행위'라는 생물학적 정의를 넘어, 진동과 수어, 신체적 현존과 촉각을 통해 감정이 전달될 수 있음을 보여줍니다. 즉, 윌리엄 청의 지적처럼 기계적 진단에만 몰두하는 의학 관점에서의 청각 장애는 '치료해야 할 신체적 결손'일지라도, 인간 존엄성의 관점에서는 서로 다른 세계를 연결하고 소통을 확장하는 가장 강력한 내러티브 언어가 될 수 있음을 증명합니다. 같은 작품에 대한 다른 아카이브를 참조하고 싶으시면 [여기](kang-jeonwoong.md)를 참조해주세요.
 
-
 <img src="./ryu-hyunmin.png" alt="Deaf culture, Medical Humanities Music 2026-1, RYU HYUN-MIN" style="width:100%;" />
 
+# A Song I Want to Be Played at My Funeral-'Funeral Hope'
 
-#내 장례식에서 연주 됐으면 하는 곡
-제 장례식에서 연주 됐으면 하는 곡은
+The song I would like to be played at my funeral is [Lee Chan-hyuk’s 'Funeral Hope'](https://youtu.be/iIn_1_XDuBM?si=1MDq4Oq13Z0Yj3c-). The reason I want this song to be played is that it expresses the sentiments and regrets felt while observing a personal funeral after death in a joyful way, rather than in a purely negative light. I believe this will allow it to remain a good memory for those who are with me at my final moments. In particular, the lyrics quietly whisper about not being able to convey my thoughts and feelings; I felt that this fully conveys the thoughts felt while describing my funeral from a third-party perspective, rather than merely wishing for a vaguely pleasant ending.
+
+# 내 장례식에서 연주 됐으면 하는 곡-'장례 희망'
+
+제 장례식에서 연주 됐으면 하는 곡은 [이찬혁의 '장례희망'](https://youtu.be/iIn_1_XDuBM?si=1MDq4Oq13Z0Yj3c-)입니다. 이 곡이 연주 됐으면 하는 이유는 사후 개인의 장례식을 바라보면서 느끼는 감회, 후회를 마냥 부정적이지 않고 즐겁게 푼다는 점이 내 마지막을 함께 해주는 사람들에게도 좋은 기억으로 남을 수 있게 해줄 수 있을 것 같아서 입니다. 특히 가사에서 나지막히 내 생각, 마음을 전하지 못 했다는 말을 읊조리는데, 이는 막연히 기분 좋은 마지막을 바라는 것이 아닌 제 3자의 입장에서 내 장례식을 서술하면서 느끼는 생각을 온전히 전하고 있다고 생각이 들었습니다. 
 
 
 
