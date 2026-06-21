@@ -17,9 +17,9 @@ Furthermore, an individual’s resistance expands into 'collective solidarity' t
 
 From a medical humanities perspective, Rent extends the patients' illness narratives from the stage into the audience through powerful rock music and polyphonic choruses. In doing so, it prompts the audience to reframe individuals with AIDS—shifting their perception from 'objects of stigma trapped under a medical gaze' to 'dignified human beings living for today, just like us.' Ultimately, Rent demonstrates how music can serve as a language of resistance to dismantle social stigma, reshaping public perception of illness and fostering healing on a societal level.
 
-<img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
+[another text about the same work](yoon-hajin.md)
 
-[another text](yoon-hajin.md)
+<img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
 
 # Music I wish to have played at my funeral
 
@@ -37,9 +37,9 @@ The song "Remember Me" from the movie Coco possesses a magical power that frames
 
 의료인문학적 관점에서 이 작품은 무대 위 환자들의 질환서사를 강렬한 록과 다성적인 합창을 통해 객석으로 확장시킴으로써, 관객들로 하여금 에이즈 환자를 '의학적 시선에 갇힌 혐오의 대상'이 아닌 '우리와 같이 오늘을 살아가는 존엄한 인간'으로 다시 보게 만듭니다. '렌트'는 음악이 어떻게 사회적 낙인을 걷어내는 저항의 언어가 되고, 나아가 관객의 질병 인식까지 변화시켜 사회적 차원의 치유를 이끌어낼 수 있는지를 보여줍니다.
 
-<img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
+[같은 작품의 다른 글](yoon-hajin.md)
 
-[다른 글](yoon-hajin.md)
+<img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
 
 # 장례식에서 연주되길 희망하는 음악
 
