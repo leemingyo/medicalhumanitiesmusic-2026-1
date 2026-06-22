@@ -16,9 +16,9 @@ ICD: M45, F33
 
 *Youtube link: https://www.youtube.com/watch?v=7wtfhZwyrcc*
 
-*Description: The song addresses the physical and mental pain caused by Dan Reynolds' chronic illness, Ankylosing Spondylitis, and depression. It portrays suffering not as a mere obstacle but as a catalyst that built his faith and strength. When considering the concepts discussed in Week 1 Medical Humanities, this song can be understood not merely as a depiction of disease but as an artistic expression of a person's lived experience with pain, resilience, and identity. Through music, Dan Reynolds presents the human dimension of illness beyond its medical diagnosis.*
+*Description: The song addresses the physical and mental pain caused by Dan Reynolds' chronic illness, Ankylosing Spondylitis, and depression. It portrays suffering not as a mere obstacle but as a catalyst that built his faith and strength. When considering the concepts discussed in Week 1 Medical Humanities, this song can be understood not merely as a depiction of disease but as an artistic expression of a person's lived experience with pain, resilience, and identity. Through music, Dan Reynolds presents the human dimension of illness beyond its medical diagnosis. Referring to the HYQ Portfolio, this interpretation highlights how illness can shape an individual's identity and life narrative rather than being understood solely as a biological condition. The song demonstrates that the meaning of disease emerges through personal experience, reflection, and storytelling.*
 
-*Reflection on the Musical Depiction: The song depicts the intensity of physical pain through explosive percussion and a resolute rhythm. The heavy, gritty drum beats dominate the track, representing the sharp sensations of chronic pain and the strong will to confront it. In the chorus, the raw vocals shouting the word "Pain" demonstrate the process of transforming agony into art. The syncopated rhythm, mimicking a limping yet forward-moving gait, effectively illustrates the dynamic vitality of an individual living with a chronic condition. Regarding this article, it would also be helpful to refer to [The Flow of Movies](yang-dongwon.md). When considering the concepts discussed in Week 3 Narrative Medicine and Illness Narrative, "Believer" can be interpreted as a quest narrative in which suffering is not simply overcome but transformed into a meaningful source of personal growth. The song reconstructs experiences of chronic illness and depression into a coherent story conveyed through sound.*
+*Reflection on the Musical Depiction: The song depicts the intensity of physical pain through explosive percussion and a resolute rhythm. The heavy, gritty drum beats dominate the track, representing the sharp sensations of chronic pain and the strong will to confront it. In the chorus, the raw vocals shouting the word "Pain" demonstrate the process of transforming agony into art. The syncopated rhythm, mimicking a limping yet forward-moving gait, effectively illustrates the dynamic vitality of an individual living with a chronic condition. Regarding this article, it would also be helpful to refer to [The Flow of Movies](yang-dongwon.md). When considering the concepts discussed in Week 3 Narrative Medicine and Illness Narrative, "Believer" can be interpreted as a quest narrative in which suffering is not simply overcome but transformed into a meaningful source of personal growth. The song reconstructs experiences of chronic illness and depression into a coherent story conveyed through sound. Referring to the HYQ Portfolio, the musical structure itself functions as a narrative medium that communicates aspects of illness which may be difficult to express through clinical language alone. This reinforces the importance of listening to patients' stories as well as their symptoms.*
 
 *Reactions of those around Dan Reynolds to his illness: Dan Reynolds once admitted that he felt embarrassed and hesitant to speak publicly about his illness for many years. However, after openly discussing Ankylosing Spondylitis through concerts and interviews, he received strong empathy and support from fans and patients experiencing similar pain. As a result, his music came to represent not only personal suffering but also a broader sense of solidarity and shared understanding.*
 
@@ -26,13 +26,13 @@ ICD: M45, F33
 
 <img src="./woo-jongyeon.png" alt="description" style="width:100%;" />
 
-*Music for My Funeral*
+# Music for My Funeral
 
 *Title: 015B - 이젠 안녕 (Now Goodbye)*
 
 *YouTube Link: https://youtu.be/cBiqltuGT88?si=Iz8Uxe7bbTc2LNOy*
 
-*If I could choose a song for my funeral, I would choose "Now Goodbye" by 015B. The song expresses a farewell, but it is not only sad. Its warm melody and message of gratitude make it a meaningful choice. I hope people will remember the good memories we shared and continue their lives with hope after listening to this song.*
+*If I could choose a song to be played at my funeral, I would choose "Now Goodbye" by 015B. Although the song is about parting, it does not focus solely on sadness or loss. Instead, its warm melody and heartfelt lyrics convey gratitude for the time spent together and encouragement for those who remain. I believe a funeral should not only be a moment of mourning but also an opportunity to reflect on meaningful memories and relationships. This song expresses a gentle farewell rather than despair, which is why it resonates with me. Through its comforting atmosphere, I hope the people attending my funeral would remember the positive moments we shared rather than dwell only on grief. I would like them to feel thankful for the experiences we had together and to continue pursuing their own lives with hope and courage. For these reasons, I think "Now Goodbye" would be a meaningful and appropriate song to accompany my final farewell.*
 
 
 # 믿는 자
@@ -45,9 +45,9 @@ ICD: M45, F33
 
 *유튜브 링크: https://www.youtube.com/watch?v=7wtfhZwyrcc*
 
-*줄거리: 보컬 댄 레이놀즈가 앓고 있는 희귀 난치성 질환인 강직성 척추염과 우울증을 다룬다. 신체적 통증과 정신적 고통을 단순히 장애물이 아니라 자신을 성장시키고 신념을 갖게 만든 원동력으로 승화시키는 과정을 담고 있다. Week 1 의료인문학의 수업내용을 참고하였을 때, 이 곡은 단순히 질병 자체를 묘사하는 것이 아니라 질병을 안고 살아가는 한 인간의 경험과 정체성을 음악으로 표현한 작품으로 이해할 수 있다. 이를 통해 청자는 의학적 진단명을 넘어 환자의 삶과 고통에 공감하게 된다.*
+*줄거리: 보컬 댄 레이놀즈가 앓고 있는 희귀 난치성 질환인 강직성 척추염과 우울증을 다룬다. 신체적 통증과 정신적 고통을 단순히 장애물이 아니라 자신을 성장시키고 신념을 갖게 만든 원동력으로 승화시키는 과정을 담고 있다. Week 1 의료인문학의 수업내용을 참고하였을 때, 이 곡은 단순히 질병 자체를 묘사하는 것이 아니라 질병을 안고 살아가는 한 인간의 경험과 정체성을 음악으로 표현한 작품으로 이해할 수 있다. 이를 통해 청자는 의학적 진단명을 넘어 환자의 삶과 고통에 공감하게 된다. HYQ Portfolio활동 참고하여 볼 때, 질병은 단순한 생물학적 이상이 아니라 개인의 정체성과 삶의 이야기를 형성하는 중요한 요소로도 이해될 수 있다. 이 곡은 질병의 의미가 의학적 진단 자체보다도 환자가 경험하고 해석하는 과정 속에서 형성된다는 점을 보여준다.*
 
-*음악적 묘사 방식에 관한 단상: 이 곡은 신체적 통증의 강렬함을 폭발적인 타악기 사운드와 단호한 리듬으로 묘사한다. 곡 전반을 지배하는 무겁고 거친 드럼 비트는 환자가 느끼는 날카로운 통증과 그에 대항하는 강한 의지를 청각화한다. 특히 후렴구에서 반복되는 'Pain'이라는 가사와 함께 터져 나오는 거친 음색은 고통을 억누르지 않고 밖으로 터뜨려 예술로 승화시키는 과정을 보여준다. 절뚝거리면서도 힘차게 앞으로 나아가는 듯한 당김음 리듬은 장애를 안고 살아가는 화자의 역동적인 생명력을 효과적으로 표현한다. 이 글과 관련해서는 [영화의 흐름](yang-dongwon.md)도 참조하면 도움이 될 것이다. Week 3 서사의학과 질환서사의 수업내용을 참고하였을 때, Believer는 고통을 단순히 극복의 대상으로 바라보지 않고 그 의미를 탐구하고 수용하는 탐구 서사의 특징을 보여준다. 곡은 강직성 척추염과 우울증이라는 경험을 하나의 의미 있는 이야기로 재구성하여 음악적으로 전달한다.*
+*음악적 묘사 방식에 관한 단상: 이 곡은 신체적 통증의 강렬함을 폭발적인 타악기 사운드와 단호한 리듬으로 묘사한다. 곡 전반을 지배하는 무겁고 거친 드럼 비트는 환자가 느끼는 날카로운 통증과 그에 대항하는 강한 의지를 청각화한다. 특히 후렴구에서 반복되는 'Pain'이라는 가사와 함께 터져 나오는 거친 음색은 고통을 억누르지 않고 밖으로 터뜨려 예술로 승화시키는 과정을 보여준다. 절뚝거리면서도 힘차게 앞으로 나아가는 듯한 당김음 리듬은 장애를 안고 살아가는 화자의 역동적인 생명력을 효과적으로 표현한다. 이 글과 관련해서는 [영화의 흐름](yang-dongwon.md)도 참조하면 도움이 될 것이다. Week 3 서사의학과 질환서사의 수업내용을 참고하였을 때, Believer는 고통을 단순히 극복의 대상으로 바라보지 않고 그 의미를 탐구하고 수용하는 탐구 서사의 특징을 보여준다. 곡은 강직성 척추염과 우울증이라는 경험을 하나의 의미 있는 이야기로 재구성하여 음악적으로 전달한다. HYQ Portfolio활동을 참고하여 보면, 이러한 음악적 구성은 임상적 언어만으로 설명하기 어려운 질병 경험을 전달하는 하나의 서사적 매체로 기능한다. 이는 환자의 증상뿐 아니라 그들의 이야기에 귀 기울이는 것이 중요하다는 점을 보여준다.*
 
 *댄 레이놀즈의 병에 대한 주변인들의 반응: 댄 레이놀즈는 한동안 자신의 질환을 공개적으로 말하지 못할 정도로 부끄러움과 부담감을 느꼈다고 밝힌 바 있다. 그러나 공연과 인터뷰를 통해 강직성 척추염에 대해 솔직하게 이야기한 이후, 비슷한 고통을 겪는 팬들과 환자들로부터 많은 공감과 지지를 받게 되었으며, 이는 그의 음악이 단순한 개인의 고백을 넘어 사회적 연대의 의미를 갖게 만들었다.*
 
@@ -55,10 +55,10 @@ ICD: M45, F33
 
 <img src="./woo-jongyeon.png" alt="description" style="width:100%;" />
 
-*자신의 장례식에서 연주되길 희망하는 음악*
+# 자신의 장례식에서 연주되길 희망하는 음악
 
 *제목: 015B - 이젠 안녕*
 
 *유튜브 링크: https://youtu.be/cBiqltuGT88?si=Iz8Uxe7bbTc2LNOy*
 
-*만약 내 장례식에서 연주될 음악을 고른다면 015B의 이젠 안녕을 선택할 것이다. 이 곡은 이별을 노래하지만 단순히 슬프기만 하지 않고, 따뜻한 멜로디와 감사의 마음을 담고 있다. 이 노래를 통해 사람들이 나와의 좋은 추억을 떠올리며 앞으로의 삶을 희망적으로 살아가기를 바란다.*
+*만약 내 장례식에서 연주될 음악을 고른다면 015B의 「이젠 안녕」을 선택할 것이다. 이 곡은 이별을 노래하고 있지만 단순히 슬픔과 상실감만을 전달하지 않는다. 따뜻한 멜로디와 진심 어린 가사는 함께했던 시간에 대한 감사와 남겨진 사람들을 향한 응원의 메시지를 담고 있다. 나는 장례식이 단순히 죽음을 슬퍼하는 자리가 아니라, 한 사람의 삶과 소중한 관계를 되돌아보는 시간이 되어야 한다고 생각한다. 이 곡은 절망적인 이별이 아니라 담담하고 따뜻한 작별 인사를 전한다는 점에서 더욱 의미 있게 다가온다. 그래서 내 장례식에서도 사람들이 슬픔에만 머무르기보다 나와 함께했던 좋은 기억들을 떠올렸으면 한다. 또한 함께했던 시간에 감사함을 느끼고, 각자의 삶을 희망적으로 살아갈 힘을 얻기를 바란다. 이러한 이유에서 「이젠 안녕」은 나의 마지막 인사를 전하기에 가장 적절한 곡이라고 생각한다.*
