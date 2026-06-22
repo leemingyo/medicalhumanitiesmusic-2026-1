@@ -22,4 +22,4 @@ Benjamin Britten’s opera Peter Grimes is a representative work that demonstrat
 
 [내가 장례식 때 틀고 싶은 노래는 (https://youtu.be/yqPIEab9-wY?si=Y4_Uec8dFgpkbgZS)이다.] 할아버지의 장례식에 갔을 때 분위기가 너무 슬프고 우울하게 느껴졌기 때문에, 나의 장례식에서는 남아 있는 사람들이 눈물보다는 웃으며 나에게 마지막 인사를 해주었으면 좋겠다. 특히 이 노래는 아버지가 가장 좋아하는 노래이기도 해서 더욱 의미가 있다. 사람들이 슬픔에만 머무르기보다 나와 함께했던 즐거운 추억을 떠올리며 밝게 나를 기억해 주었으면 좋겠다.
 
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/e28eff9d-ff39-4be0-9331-fd35d3709d9c" />
+<img src="./lee-mingyo.png" alt="Now the Great Bear and Pleiades" style="width:50%;" />
