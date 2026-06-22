@@ -8,7 +8,9 @@ ICD: G83.5
 
 # The Diving Bell and the Butterfly
 
-The Diving Bell and the Butterfly (2007) tells the story of Jean-Dominique Bauby, a magazine editor who experiences locked-in syndrome after a stroke. Locked-in syndrome refers to a condition in which the mind remains conscious while the body is almost completely unable to move, and the film makes this “trapped consciousness” perceptible through first-person camera work and sound design. In the hospital scenes, cold mechanical sounds and moments of silence create a restricted sensory environment, allowing the audience to feel the protagonist’s isolation from the outside world. By contrast, Canteloube’s repetitive and lyrical musical theme in the flashback scenes functions as a motif of memory, bringing back the emotions and images of the past. Its slow tempo and recurring melody suggest that the protagonist’s memories and emotions continue even though his body is immobilized. When the dry sounds of the hospital are placed against the soft music of memory, the audience can sense the gap between his physically confined body and his still-active inner life. The variety of inserted songs also contrasts the vitality of the external world with his physical isolation, showing that his consciousness still preserves emotion, memory, and imagination. In this way, music and sound in the film are not merely background elements, but central narrative devices that communicate a subjective experience of illness that cannot be fully expressed in words.
+The Diving Bell and the Butterfly (2007) tells the story of Jean-Dominique Bauby, a magazine editor who experiences locked-in syndrome after a stroke. Locked-in syndrome refers to a condition in which the mind remains conscious while the body is almost completely unable to move, and the film makes this “trapped consciousness” perceptible through first-person camera work and sound design. In the hospital scenes, cold mechanical sounds, medical voices, and moments of silence create a restricted sensory environment, allowing the audience to feel the protagonist’s isolation from the outside world. By contrast, Canteloube’s repetitive and lyrical musical theme in the flashback scenes functions as a motif of memory, bringing back the emotions and images of the past. Its slow tempo and recurring melody suggest that the protagonist’s memories and emotions continue even though his body is immobilized. When the dry sounds of the hospital are placed against the soft music of memory, the audience can sense the gap between his physically confined body and his still-active inner life.
+
+This contrast also raises an ethical question about how illness and disability should be represented. The film does not simply make Bauby an object of pity. Instead, its first-person perspective, silence, mechanical sound, and lyrical music allow the audience to approach his subjective experience while still recognizing the limits of fully understanding another person’s suffering. In this sense, music and sound in the film are not merely background elements, but central narrative devices that communicate a subjective experience of illness that cannot be fully expressed in words. They also help us ask when musical representation becomes ethical empathy and when it risks becoming aesthetic consumption of another person’s pain.
 
 ## Media
 
@@ -18,11 +20,15 @@ YouTube link: [The Diving Bell and the Butterfly - Related music/video](https://
 
 ## Course connections
 
-This entry connects to Week 3’s discussion of disease and illness by treating locked-in syndrome not only as a neurological diagnosis, but also as a subjective experience of isolation and inner consciousness. It also reflects Week 5’s discussion of music and pain, because the analysis focuses on how silence, mechanical sounds, repeated melody, and lyrical music communicate suffering beyond ordinary language. Finally, the related entries section connects this work to the open-source database activity by linking it with other entries on hearing impairment, psychological instability, surgery, and bodily pain.
+This entry connects to Week 3’s discussion of disease and illness by treating locked-in syndrome not only as a neurological diagnosis, but also as a subjective experience of isolation and inner consciousness. It also reflects Week 5’s discussion of music and pain, because the analysis focuses on how silence, mechanical sounds, medical voices, repeated melody, and lyrical music communicate suffering beyond ordinary language. Finally, it connects to Week 4’s open-source database activity and Week 12’s related-entry work by linking this entry with other works on hearing impairment, psychological instability, surgery, and bodily pain.
+
+## Connection to HYQ Portfolio
+
+My HYQ Portfolio asks how the mechanical sounds and silence of the hospital scenes, together with the lyrical music of the flashback scenes, help the audience understand the isolation and memory of locked-in syndrome, and under what conditions such representation can be read as ethical empathy. This DB entry answers that question through a specific case analysis. It shows that ethical empathy can emerge when the work respects the patient’s subjective point of view, avoids turning suffering into beautiful spectacle, provides enough emotional and social context, and allows the audience to maintain critical distance. This standard can also be applied to other works that represent illness, disability, or bodily pain through music and sound.
 
 ## Related entries
 
-- [ryu-hyunmin.md](./ryu-hyunmin.md): This entry discusses how the experience of hearing impairment in *CODA* is represented through the absence of music and the use of silence. It is related to my entry because both examine how sound and non-sound can express the experience of disability.
+- [ryu-hyunmin.md](./ryu-hyunmin.md): This entry discusses how the experience of hearing impairment in CODA is represented through the absence of music and the use of silence. It is related to my entry because both examine how sound and non-sound can express the experience of disability.
 - [seo-jihui.md](./seo-jihui.md): This entry analyzes how “Bathroom Dance” in *Joker* musically represents the character’s psychological and neurological instability. It connects to my entry because both focus on music as a narrative device that reveals a character’s inner state.
 - [ryu-jimin.md](./ryu-jimin.md): This entry examines how Marin Marais’s work musically depicts surgery, pain, and bodily suffering. It is related to my entry because both consider how music can make illness and physical experience perceptible to the audience.
 
@@ -34,7 +40,9 @@ I would like Arvo Pärt’s Spiegel im Spiegel to be played at my funeral. The p
   
 # 잠수종과 나비
 
-〈잠수종과 나비〉(2007)는 잡지 편집장이었던 장 도미니크 보비가 뇌졸중 이후 locked-in syndrome을 겪게 되는 상황을 다룬 영화이다. locked-in syndrome은 의식은 또렷하지만 신체를 거의 움직일 수 없는 상태를 의미하며, 영화는 이러한 ‘갇힌 의식’을 1인칭 카메라와 음향 설계를 통해 관객이 직접 체감하도록 만든다. 병실 장면에서 들리는 차가운 기계음과 무음 처리는 주인공이 외부 세계와 단절된 상태를 제한된 감각으로 전달한다. 반면 회상 장면에서 사용되는 Canteloube의 반복적이고 서정적인 음악 주제는 과거의 기억과 감정을 불러내는 모티프로 작동한다. 이 음악은 느린 템포와 반복되는 선율을 통해 주인공의 기억이 단절되지 않고 계속 이어지고 있음을 보여준다. 특히 병실의 건조한 소리와 회상 장면의 부드러운 음악이 대비될 때, 관객은 움직일 수 없는 몸과 여전히 살아 있는 내면 사이의 간극을 느끼게 된다. 또한 다양한 삽입곡들은 외부 세계의 활력과 주인공의 신체적 고립을 대비시키며, 그의 의식이 여전히 감정과 기억을 유지하고 있음을 드러낸다. 따라서 이 영화에서 음악과 소리는 단순한 배경이나 분위기 조성이 아니라, 질병으로 인해 말로 표현하기 어려운 주관적 경험을 전달하는 핵심적인 서사 장치라고 볼 수 있다.
+〈잠수종과 나비〉(2007)는 잡지 편집장이었던 장 도미니크 보비가 뇌졸중 이후 locked-in syndrome을 겪게 되는 상황을 다룬 영화이다. locked-in syndrome은 의식은 또렷하지만 신체를 거의 움직일 수 없는 상태를 의미하며, 영화는 이러한 ‘갇힌 의식’을 1인칭 카메라와 음향 설계를 통해 관객이 직접 체감하도록 만든다. 병실 장면에서 들리는 차가운 기계음, 의료진의 목소리, 무음 처리는 주인공이 외부 세계와 단절된 상태를 제한된 감각으로 전달한다. 반면 회상 장면에서 사용되는 Canteloube의 반복적이고 서정적인 음악 주제는 과거의 기억과 감정을 불러내는 모티프로 작동한다. 이 음악은 느린 템포와 반복되는 선율을 통해 주인공의 기억이 단절되지 않고 계속 이어지고 있음을 보여준다. 특히 병실의 건조한 소리와 회상 장면의 부드러운 음악이 대비될 때, 관객은 움직일 수 없는 몸과 여전히 살아 있는 내면 사이의 간극을 느끼게 된다.
+
+이러한 대비는 질병과 장애를 어떻게 재현해야 하는가에 대한 윤리적 질문으로도 이어진다. 이 영화는 보비를 단순히 불쌍한 환자로 대상화하지 않고, 1인칭 시점, 침묵, 기계음, 서정적 음악을 통해 그의 주관적 경험에 접근하게 만든다. 동시에 관객이 타인의 고통을 완전히 이해할 수 없다는 한계도 드러낸다. 따라서 이 영화에서 음악과 소리는 단순한 배경이나 분위기 조성이 아니라, 질병으로 인해 말로 표현하기 어려운 주관적 경험을 전달하는 핵심적인 서사 장치라고 볼 수 있다. 또한 이러한 분석은 음악적 재현이 언제 윤리적 공감이 되고, 언제 타인의 고통을 감상적으로 소비하는 방식이 되는지를 질문하게 만든다.
 
 ## Media
 
@@ -44,7 +52,11 @@ I would like Arvo Pärt’s Spiegel im Spiegel to be played at my funeral. The p
 
 ## 수업 내용과의 연결
 
-이 항목은 Week 3에서 다룬 disease와 illness의 구분과 연결됩니다. locked-in syndrome을 단순한 신경학적 진단명으로만 보지 않고, 신체적 고립과 내면의 의식이 공존하는 주관적 경험으로 해석했기 때문입니다. 또한 Week 5에서 다룬 음악을 통한 고통의 표현과도 연결됩니다. 병실의 기계음, 무음, 반복 선율, 회상 장면의 서정적 음악이 언어로 설명하기 어려운 고통을 감각적으로 전달한다는 점을 분석했기 때문입니다. 마지막으로 상호참조 링크를 통해 청각장애, 심리적 불안정, 수술과 신체적 고통을 다룬 다른 항목들과 연결했다는 점에서 오픈소스 기반 의료인문학 DB 구축 활동과도 관련됩니다.
+이 항목은 Week 3에서 다룬 disease와 illness의 구분과 연결됩니다. locked-in syndrome을 단순한 신경학적 진단명으로만 보지 않고, 신체적 고립과 내면의 의식이 공존하는 주관적 경험으로 해석했기 때문입니다. 또한 Week 5에서 다룬 음악을 통한 고통의 표현과도 연결됩니다. 병실의 기계음, 의료진의 목소리, 무음, 반복 선율, 회상 장면의 서정적 음악이 언어로 설명하기 어려운 고통을 감각적으로 전달한다는 점을 분석했기 때문입니다. 마지막으로 Week 4의 오픈소스 DB 구축 활동 및 Week 12의 상호참조 활동과도 연결됩니다. 상호참조 링크를 통해 청각장애, 심리적 불안정, 수술과 신체적 고통을 다룬 다른 항목들과 연결했기 때문입니다.
+
+## HYQ Portfolio와의 연결
+
+제 HYQ Portfolio의 최종 질문은 〈잠수종과 나비〉에서 병실의 기계음·무음과 회상 장면의 서정적 음악이 관객이 locked-in syndrome의 고립과 기억을 이해하는 데 어떤 역할을 하며, 이러한 표현이 어떤 조건에서 윤리적 공감으로 읽힐 수 있는지를 묻는 것입니다. 이 DB 항목은 그 질문에 대한 구체적인 사례 분석으로 연결됩니다. 여기서 윤리적 공감의 기준은 환자의 주관적 시점을 존중하는지, 고통을 아름답게 포장하거나 대상화하지 않는지, 충분한 정서적·사회적 맥락을 제시하는지, 관객이 비판적 거리두기를 유지할 수 있게 하는지로 정리할 수 있습니다. 이러한 기준은 〈잠수종과 나비〉뿐 아니라 청각장애, 심리적 불안정, 수술과 신체적 고통을 다룬 다른 작품에도 적용해 볼 수 있습니다.
 
 ## Related entries
 

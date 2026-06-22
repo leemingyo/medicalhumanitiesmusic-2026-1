@@ -14,7 +14,17 @@ The movie Miracle in Cell No. 7 is about a heartwarming and tear-jerking paterna
 
 In this regard, referring to [Inseparable Bros](yang-jiseok.md) would be helpful.
 
-The song I want played at my funeral is '[Goodbye for Now](https://www.youtube.com/watch?v=QrqYvbdAYcE)' (Ijen Annyeong) by 015B. I absolutely hate heavy, overly serious atmospheres; I much prefer something moderately bright and cheerful. That’s why, rather than a sad and gloomy funeral, I want mine to have a warm, uplifting vibe—just like the lyrics, looking forward to the day we meet again. That’s why I chose this song.
+The song I want played at my funeral is '[Goodbye for Now](https://www.youtube.com/watch?v=QrqYvbdAYcE)' (Ijen Annyeong) by 015B. I absolutely hate heavy, overly serious atmospheres; I much prefer something moderately bright and cheerful. 015B's 'Goodbye for Now' is frequently played at graduation ceremonies, emphasizing hope and a future reunion rather than the sadness and regret of parting. That’s why, rather than a sad and gloomy funeral, I want mine to have a warm, uplifting vibe—just like the lyrics, looking forward to the day we meet again. That’s why I chose this song.
+
+The Future Question of my HYQ Portfolio is: “What is that primitive realm—endowed by nature, inherently inexplicable, and impossible to artificially imitate or learn through technology—that humans still possess despite technological advancements, and how is it passed down?” 
+
+We live in an advanced era where we converse with foreigners using Google Translate and diagnose diseases through precision machinery. Ironically, however, as technology becomes more sophisticated, the gap and alienation between humans only deepen. This is precisely why the sign language technology in the KT commercial could not fully bridge the lives of the deaf, and why patients feel alienated when doctors focus more on machine metrics than on the patient's lived experience. Where, then, does this 'primitive realm' exist—a realm that humans will never lose amidst the flood of technology, and one that AI can never artificially acquire through learning?  
+
+First, it lies in an 'artistic empathy and solidarity that transcends logic.' In the movie Miracle in Cell No. 7, the music does not degrade the main character Yong-gu’s deficiency into an object of mere pity; instead, it guides the audience to deeply empathize with the universal value of paternal love. While mechanical language translation or precision diagnostics merely convey facts, human music and art connect hearts. Just as communicating with awkward grammar can carry a more powerful force than technology because of the sincerity embedded within it, the capacity for pure empathy—embracing another's deficiencies—is a uniquely human, primitive territory.   
+
+Second, humans are 'contradictory beings who sublime their own finiteness into warmth.' Finding tranquility in meaningless environmental noise (white noise), and wishing for a bright, heartwarming melody like 015B's 'Goodbye Now' to promise a future reunion even at the darkest and saddest moment of life—one's own funeral—reveals an emotional structure that AI's rational algorithms can never calculate. When facing the ultimate limitations of death and sorrow, this emotional transcendence—twisting and accepting them with playfulness and warm fellowship—is the very uniqueness that nature has bestowed upon humanity.   
+
+Ultimately, my Database answers the Future Question I posed as follows: even if a future arrives where technology surpasses humanity, humans will never lose themselves as long as we retain the power to empathize with each other's deficiencies with raw, unrefined sincerity, and to transform sorrow into comfort through music even within life's finiteness. This primitive realm is being passed down continuously through generations—not by flawless technology, but through clumsy yet warm, analog relationships. 
 
 <img src="./woo-seokhyun.png" alt="어두운 교도소 강당을 배경으로 노란빛 속에서 노래하는 어린이 합창단과 이를 바라보는 죄수들의 대비를 극적으로 그린 유화풍 그림이다. 화면 중앙의 무대 위에는 흰 셔츠와 파란 단복을 입은 수십 명의 아이들이 황금빛 조명을 받으며 순수하게 노래하고 있다. 화면 하단을 가득 채운 남성 관객들은 칙칙한 갈색과 카키색 죄수복을 입은 채 어두운 관객에서 무대를 일제히 올려다보고 있다. 환한 무대의 '빛'과 죄수석의 '어둠', 아이들의 '순수함'과 거친 '현실'이 색채와 명암을 통해 한눈에 대비되는 작품이다." style="width:60%;" />
 
@@ -26,4 +36,14 @@ The song I want played at my funeral is '[Goodbye for Now](https://www.youtube.c
 
 이와 관련해서는 [나의 특별한 형제](yang-jiseok.md)를 참조하면 도움이 될 것이다.
 
-나의 장례식에서 연주되길 바라는 음악은 공일오비(015B)의 '[이젠안녕](https://www.youtube.com/watch?v=QrqYvbdAYcE)'이다. 난 진지하고 심각한 분위기가 정말 너무 싫고 적당히 밝고 유쾌한 분위기가 좋다. 이런 생각들 때문에 내 장례식도 슬프고 우울한 분위기에서 진행되는 것 보단 노래의 가사처럼 언젠간 다시 만남을 기약하며 너무 슬프지도 않고 적당히 훈훈한 분위기에서 진행되는 것 바라는 마음에 이 노래를 선택했다.
+나의 장례식에서 연주되길 바라는 음악은 공일오비(015B)의 '[이젠안녕](https://www.youtube.com/watch?v=QrqYvbdAYcE)'이다. 난 진지하고 심각한 분위기가 정말 너무 싫고 적당히 밝고 유쾌한 분위기가 좋다. 공일오비(015B)의 '이젠안녕'은 주로 졸업식에서 자주 재생되며 헤어지는 아쉬움과 슬픔보단 다시 만날 미래와 희망을 강조한다. 때문에 내 장례식도 슬프고 우울한 분위기에서 진행되는 것 보단 노래의 가사처럼 언젠간 다시 만남을 기약하며 너무 슬프지도 않고 적당히 훈훈한 분위기에서 진행되는 것 바라는 마음에 이 노래를 선택했다.
+
+내 HYQ Portfolio의 Future Question은 '기술의 발전에서도 인간이 여전히 가지고 있는, 명확히 설명할 수 없는 자연이 부여한, 기술을 통한 인위적인 모방과 학습이 불가능한 그 원시적인 영역은 무엇이고 어떻게 답습되는가?'이다.
+
+우리는 구글 번역기로 외국인과 대화하고, 정밀 기계로 질병을 진단하는 진보된 시대에 살고 있다. 하지만 역설적이게도 기술이 정교해질수록 인간 사이의 괴리와 소외는 깊어진다. KT 광고의 수어 기술이 농인의 삶을 완벽히 메꾸지 못했고, 의사가 환자의 경험보다 기계 수치에 집중할 때 환자가 외로움을 느끼는 이유가 여기에 있다. 그렇다면 기술의 홍수 속에서 인간이 결코 잃지 않을, AI가 인위적으로 학습할 수 없는 '원시적인 영역'은 어디에 존재하는가? 
+
+첫째, 그것은 '논리를 초월한 예술적 공감과 연대'에 있다. 영화 7번방의 선물 속 음악은 용구의 결핍을 동정의 대상으로 격하하지 않고, 관객이 보편적 부성애라는 가치에 깊이 공감하도록 유도한다. 기계적인 언어 번역이나 정밀 진단은 사실(Fact)을 전달할 뿐이지만, 인간의 음악과 예술은 마음(Heart)을 연결한다. 서툰 문법으로 소통하더라도 그 속에 담긴 진심이 기술보다 강한 힘을 갖듯, 타인의 결핍을 안아주는 순수한 공감 능력은 인간만의 원시적 영토다.
+
+둘째, 인간은 '유한성을 따뜻함으로 승화하는 모순적 존재'라는 점이다. 아무 의미 없는 환경적 소음(백색소음)에서 평온을 찾고, 생의 가장 어둡고 슬픈 순간인 '나의 장례식'에서조차 015B의 '이젠 안녕' 같은 밝고 훈훈한 선율을 통해 재회를 기약하려는 인간의 감정 구조는 AI의 이성적 알고리즘으로는 결코 계산해낼 수 없다. 죽음과 슬픔이라는 한계를 마주했을 때, 이를 유쾌함과 따뜻한 유대감으로 비틀어 수용하는 정서적 초월성이야말로 자연이 인간에게 부여한 고유함이다.
+
+결국 내가 던진 Future Question에 대해 나의 DB는 다음과 같이 답한다. 기술이 인간을 초월하는 미래가 오더라도, 우리가 서툰 날것의 진심으로 서로의 결핍에 공감하고, 삶의 유한함 속에서도 음악을 통해 슬픔을 위로로 바꾸어내는 힘을 잃지 않는다면, 인간은 결코 자기 자신을 잃어버리지 않을 것이다. 이 원시적 영역은 세대를 거쳐 완벽한 기술이 아닌, 서투르지만 따뜻한 아날로그적 관계 속에서 끊임없이 답습되고 있다.

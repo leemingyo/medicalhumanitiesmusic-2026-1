@@ -38,8 +38,16 @@ In Matthias Claudius's poem, which is referenced in Schubert's String Quartet De
 
 # 나의 장례식 음악
 
-저는 저의 장례식에 [*가인의 '카니발'*](https://youtu.be/SXHJQ7CYqQM?si=dPZS5PcYM0pRIwR1)이 들렸으면 합니다. 사람들은 흔히 장례식장에서 고인의 삶을 타인의 시선으로 자의적 평가를 하거나, 죽음이라는 사실에 매몰되어 삶마저 슬프고 암울한 시선으로 재단하곤 합니다. 하지만 화려하고 벅찬 멜로디를 가진 〈카니발〉을 선택함으로써, 그러한 타인의 판단을 막고 "나는 충분히 잘 살았고, 내 삶은 결코 암울하지 않았으며 눈부시게 행복했다"고 모두에게 말할 수 있습니다. 
+나는 나의 장례식에 [*가인의 '카니발'*](https://youtu.be/SXHJQ7CYqQM?si=dPZS5PcYM0pRIwR1)이 들렸으면 한다. 사람들은 흔히 장례식장에서 고인의 삶을 타인의 시선으로 자의적 평가를 하거나, 죽음이라는 사실에 매몰되어 삶마저 슬프고 암울한 시선으로 재단하곤 한다. 하지만 화려하고 벅찬 멜로디를 가진 〈카니발〉을 선택함으로써, 그러한 타인의 판단을 막고 "나는 충분히 잘 살았고, 내 삶은 결코 암울하지 않았으며 눈부시게 행복했다"고 모두에게 말할 수 있다. 
 
-장례식 음악은 결국 떠나는 자가 남는 자에게 건네는 마지막 메시지이기도 합니다. 치료와 창작이 하나의 기술이었던 고대의 개념을 현대적으로 회복한 음악 죽음학(Music Thanatology)의 관점에서 볼 때, 이 곡은 장례식장에 찾아온 조문객들에게 건네는 다정한 처방전과 같습니다. 무겁고 슬픈 장송곡 대신 마치 축제와 같은 밝은 음악을 틀어줌으로써, 나를 위해 너무 울지 말고 내가 누렸던 행복한 삶을 함께 축하해 달라는 위로의 뜻을 전할 수 있습니다.  
+장례식 음악은 결국 떠나는 자가 남는 자에게 건네는 마지막 메시지이기도 하다. 치료와 창작이 하나의 기술이었던 고대의 개념을 현대적으로 회복한 음악 죽음학(Music Thanatology)의 관점에서 볼 때, 이 곡은 장례식장에 찾아온 조문객들에게 건네는 다정한 처방전과 같다. 무겁고 슬픈 장송곡 대신 마치 축제와 같은 밝은 음악을 틀어줌으로써, 나를 위해 너무 울지 말고 내가 누렸던 행복한 삶을 함께 축하해 달라는 위로의 뜻을 전할 수 있다.  
 
-슈베르트의 현악사중주 〈죽음과 소녀〉에 인용된 마티아스 클라우디우스의 시에서, 죽음은 두렵고 사나운 해골이 아니라 "내 팔 안에서 고이 잠들게 해 주마"라고 말하는 평온한 친구로 묘사됩니다. 이처럼 나에게 다가온 죽음 역시 슬프고 끔찍한 비극이 아닙니다. 인생이라는 화려하고 아름다웠던 축제(Carnival)를 끝내고, 친구 같은 죽음의 품 안에서 평온하게 잠드는 과정일 뿐입니다. 따라서 이 곡은 나의 행복했던 인생 1막을 기쁘게 갈무리하는 가장 완벽하고 당당한 마침표가 될 것입니다. 
+슈베르트의 현악사중주 〈죽음과 소녀〉에 인용된 마티아스 클라우디우스의 시에서, 죽음은 두렵고 사나운 해골이 아니라 "내 팔 안에서 고이 잠들게 해 주마"라고 말하는 평온한 친구로 묘사된다. 이처럼 나에게 다가온 죽음 역시 슬프고 끔찍한 비극이 아니다. 인생이라는 화려하고 아름다웠던 축제(Carnival)를 끝내고, 친구 같은 죽음의 품 안에서 평온하게 잠드는 과정일 뿐이다. 따라서 이 곡은 나의 행복했던 인생 1막을 기쁘게 갈무리하는 가장 완벽하고 당당한 마침표가 될 것이다. 
+
+# Conclusion
+
+In this way, the two preceding texts are deeply connected to the questions raised during this semester's lectures. A one-dimensional physical control that simply blocks out all mechanical alarm noises in wards and intensive care units creates a paradox, inducing sensory deprivation and delirium in patients. Rather, just as the OST of *'Kill Me, Heal Me'* enables others to deeply *listen* to the patient's inner confusion, and upbeat funeral music serves as an affectionate prescription to preserve the deceased's dignity, sounds in clinical medical settings should be treated not as mere noise, but as a medium to understand and alleviate the patient's suffering. Ultimately, these records answer the question of how alarms for the safety of medical staff and sounds for the comfort of patients can coexist. They provide concrete humanistic insights into why it is essential to design a therapeutic auditory environment based on music thanatology and a narrative medicine perspective that empathizes with the pain of others.
+
+# 마무리
+
+이처럼 앞선 두 글은 학기 중 강의를 수강하며 들었던 질문과 깊이 연결된다. 단순히 병동과 중환자실의 기계적 알람 음악 소음을 전면 차단하는 1차원적인 물리적 통제는 환자에게 감각 박탈과 섬망을 유발하는 역설을 가져온다. 오히려 《킬미,힐미(Kill Me, Heal Me)》의 OST가 환자의 혼란을 타인이 깊이 청취하게 만들고, 장례식의 밝은 음악이 고인의 존엄을 지키는 다정한 처방전이 된 것처럼, 임상 의료 현장에서도 소리는 단순한 소음이 아니라 환자의 고통을 이해하고 완화하는 매개체로 다루어져야 한다. 결과적으로 이 기록들은 의료진의 안전을 위한 알람과 환자의 안정을 위한 소리가 어떻게 공존해야 하는가에 대한 물음에 답하며, 타인의 고통을 공감하는 서사의학적 관점과 음악 죽음학을 바탕으로 한 치유적 청각 환경 설계가 왜 필수적인지에 대한 구체적인 인문학적 통찰을 제공한다. 

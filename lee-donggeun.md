@@ -31,3 +31,20 @@ The song "[Full Moon Full life](https://youtu.be/hWhgrA2dhrk?si=PUn7DenzlUAx_l_m
 
 노래 "[Full Moon Full life](https://youtu.be/hWhgrA2dhrk?si=PUn7DenzlUAx_l_m)"는 게임<페르소나3리로드>의 주제곡으로, 게임의 핵심 주제인 'Memento Mori(죽을 것임을 기억하라)'를 삶의 마지막 순간에 직접 구현하고자 했습니다. 조문객들이 슬픔에 잠기기보다 리듬감 있는 음악 속에서 고인을 즐겁게 추억하기를 바랐으며, 곡의 가사를 통해 저의 삶의 태도와 철학을 직관적으로 느끼게끔 하려는 의도가 담겨져 있다. 
 
+# HYQ 포트폴리오
+
+1. 현대 의학이 수치와 데이터(Disease)에만 집중할 때, 왜 우리는 환자가 직접 말하는 아픔의 이야기(Illness/질환서사)에 귀를 기울여야 할까?
+2. 말이나 글로 다 표현할 수 없는 극심한 몸의 고통을, 음악은 어떻게 비언어적 방식으로 시각화하거나 전달할 수 있을까?
+3. 이 모든 환자들의 고통과 예술적 기록들을 '깃허브(GitHub)' 같은 오픈소스 공간에 디지털 데이터로 저장하는 것은 미래에 어떤 가치가 있을까?
+ 
+나의 포트폴리오에 제기된 질문들은 고통의 완벽한 데이터화가 실제로 ‘가능’한가를 묻기보다, 그 고통이 어떤 조건에서 왜곡 없이 서사적 치유로 이어질 수 있는지를 탐구한다. ‘질환 서사’와 ‘C.P.E. 바흐의 음악적 장치’는 병원 장비가 포착하지 못하는 환자의 주관적 아픔을 언어라는 한계에 고정하기보다, 음악과 진동이라는 다감각적 구조를 통해 타인이 그 신체적 고통의 궤적에 가깝게 공감하도록 만든다. 이때 환자의 고통은 오픈소스 공간에 저장된 단순한 디지털 데이터라기보다, 이를 다감각적으로 시각화하는 기술적 시도와 환자의 서사를 훼손하지 않으려는 엄격한 윤리적 필터가 만나는 지점에서 비로소 치유의 의미로 ‘실재’하게 된다. 따라서 우리가 구축하려는 고통의 데이터베이스는 단순한 정보의 수집이나 냉소적인 수치 치료가 아니라, 언어적 한계로 고립된 환자와 연결되려는 시도이자 관계 속에서 생성되는 서사적 치유라 할 수 있다.
+이러한 관점은 미래 메디컬 시대의 AI 기반 기술을 바라보는 기준도 제시한다. AI와 첨단 기술은 환자의 고통 패턴을 정교하게 분석하고 VR 등을 통해 다감각적으로 재현할 수 있지만, 디지털화 과정에서 발생할 수 있는 개인 정보의 오남용을 통제하거나 타인의 상처를 윤리적으로 책임지려는 자세까지 스스로 포함할 수는 없다. 타인의 주관적 고통을 데이터화하고 ‘듣는다’는 행위가 단순한 수치 치료나 기술적 소비가 아니라 환자의 서사를 존중하는 윤리적 책임을 전제로 할 때, 인간 중심의 치유 메커니즘은 여전히 고유한 의미를 지닌다. 결국 이 질문들은 미래 의료 기술의 진정성을 단순히 첨단 기술의 완성도가 아닌, 고통을 안전하게 해석하고 이에 깊이 있게 응답하려는 인간의 윤리적 자세 속에서 다시 정의하도록 이끈다.
+
+# HYQ Portfolio
+
+1. When modern medicine focuses only on figures and data, why should we listen to the story of pain (Illness/disease) that patients tell directly?
+2. How can music visualize or convey extreme body pain that cannot be expressed in words or writing in a non-verbal way?
+3. What will it be worth in the future to store all these patients' pain and artistic records as digital data in an open-source space such as GitHub?
+
+Rather than asking whether perfect dataization of pain is actually possible, the questions raised in my portfolio explore under what conditions the pain can lead to narrative healing without distortion. Rather than fixing the patient's subjective pain that hospital equipment cannot capture to the limit of language, the 'disease narrative' and 'C.P.E. Bach's musical device' make others sympathize closely with the trajectory of physical pain through the multi-sensory structure of music and vibration. At this time, the patient's pain becomes 'real' in the sense of healing only when technical attempts to visualize it multi-sensibly and strict ethical filters that do not damage the patient's narrative meet, rather than simple digital data stored in an open-source space. Therefore, the database of pain we are trying to build is not just collection of information or cynical numerical treatment, but it can be said that it is an attempt to connect with a patient isolated by verbal limitations and an epic healing created in a relationship.
+This perspective also presents a criterion for looking at AI-based technologies in the future medical era. AI and cutting-edge technologies can elaborately analyze patient pain patterns and reproduce them multi-sensibly through VR, but they cannot control the misuse of personal information that may occur during the digitization process or even include the attitude of ethically taking responsibility for the wounds of others. Human-centered healing mechanisms still have their own meaning, given that the act of 'listening' to other people's subjective pain is not just numerical treatment or technical consumption but ethical responsibility for respecting the patient's narrative. In the end, these questions lead to redefining the authenticity of future medical technology in the human ethical attitude to safely interpret suffering and respond deeply to it, not just the completion of cutting-edge technology

@@ -13,6 +13,10 @@ ICD: F20
  The film’s narrative follows Nash’s journey as a brilliant mathematician who struggles with schizophrenia, experiencing difficulty distinguishing between reality and hallucination, and eventually learning to cope with his condition. The music reflects his condition by combining structured, repetitive elements that represent logical thinking with increasingly complex and shifting sounds that symbolize mental instability. ﻿In particular, the music is used in a scene where John Nash is obsessed with finding hidden codes and patterns among surrounding people and events, and the melody, where regularity and change coexist, reveals his logical thinking and increasingly deepening mental confusion at the same time.
  
  The music plays a crucial role in expressing Nash’s unstable mental state and the blurred boundary between reality and illusion. The repetitive yet subtly shifting musical patterns symbolize his fluctuating perception between order and chaos, allowing the audience to emotionally and sensorially engage with his experience of the illness. In this way, the music functions not merely as background but as a medium that conveys the subjective experience of schizophrenia.
+
+ When viewed from the perspective of diseases, this music helps the audience indirectly experience of John My City experience and understand the emotional system, which is difficult to understand the emotions and inner tax system.Repeatability and gradually intensified as a disease service that is functionally transmitted to confusion, anxiety, anxiety, anxiety, anxiety, anxiety, and the boundary between reality and patients.This shows that the subjective experience and emotions can be an important media that can be an important media that can be an important media.
+ 
+ 
 For other articles on the same movie, see <https://github.com/Gyurin-Kim/medicalhumanitiesmusic-2026-1/blob/5f39ff31b45f1b2e92bb49df67c4620d6bddeff5/yeum-gawon.md >.
 
  
@@ -24,6 +28,10 @@ For other articles on the same movie, see <https://github.com/Gyurin-Kim/medical
 영화의 줄거리는 존 내시가 천재 수학자로서 성공을 이루는 동시에 조현병으로 인해 현실과 환상을 혼동하는 과정을 중심으로 전개되며 이후 자신의 상태를 인식하고 극복하려는 노력을 보여준다. 이 음악은 규칙적인 리듬을 통해 그의 논리적 사고와 질서를 표현하는 동시에 점차 변화하고 확장되는 선율을 통해 정신적 혼란과 불안정성을 상징한다. 특히 존 내시가 주변 인물과 사건들 속에서 숨겨진 암호와 패턴을 찾아내려 집착하는 장면에서 이 음악이 사용되며, 규칙성과 변화가 공존하는 선율은 그의 논리적 사고와 점차 심화되는 정신적 혼란을 동시에 드러낸다.
 
 이러한 음악은 내시의 불안정한 정신 상태와 현실과 환상의 경계를 표현하는 데 중요한 역할을 한다. 특히 일정한 패턴 속에서도 미묘하게 변화하는 선율은 그의 사고가 질서와 혼란 사이를 오가는 모습을 상징하며 관객이 그의 내면 세계를 감각적으로 경험하도록 돕는다. 이처럼 음악은 단순한 배경을 넘어 질병의 주관적 체험을 전달하는 매개로 기능한다. 
+
+질환서사의 관점에서 볼 때 이 음악은 관객이 존 내시의 조현병 경험을 간접적으로 체험하고 언어만으로는 표현하기 어려운 감정과 내면세계를 이해하도록 돕는다. 반복성과 질서, 그리고 점차 심화되는 불안정성은 혼란과 불안, 현실과 환상의 경계를 구분하기 어려운 질병 경험을 비언어적으로 전달하는 질환서사로 기능한다. 이는 음악이 질병을 겪는 사람의 주관적 경험과 감정을 전달하고 관객의 공감을 이끌어낼 수 있는 중요한 매체가 될 수 있음을 보여준다. 
+
+
 같은 영화를 다룬 다른 글은 <https://github.com/Gyurin-Kim/medicalhumanitiesmusic-2026-1/blob/5f39ff31b45f1b2e92bb49df67c4620d6bddeff5/yeum-gawon.md> 을 참고하세요.
 
 <img width="1402" height="1122" alt="뷰티풀마인드" src="https://github.com/user-attachments/assets/8d63e6c1-7c3a-4916-a3cd-c6fa32207792" />

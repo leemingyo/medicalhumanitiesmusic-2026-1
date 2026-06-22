@@ -36,3 +36,13 @@ The reason I chose the children's version over the original by The Beatles is th
 # 나의 장례식 음악
 
 나의 장례식에서 연주되길 원하는 음악은 비틀즈의 I will 이다. 정확하게는 *Love Affair* 영화 속에 아이들이 부른 버전의 I will이다. 사실 이 노래는 어렸을 때 가사와 멜로디가 마음에 들어서 제일 처음 가사를 외운 팝송이다. 'Will I wait a lonely life time? If you want me to I will.' 이 가사가 꼭 낭만적인 소설 속 이야기 같아서 마음에 들었다. 나중에 사랑하는 사람들과 같이 부르고 싶다. 나의 장례식 때 내가 사랑했던 사람들이 와서 이 노래를 듣고 나와 함께했던 추억들을 떠올려 주었으면 좋겠다. 원곡자인 비틀즈가 아닌 아이들이 부른 버전을 선택한 이유는 비틀즈는 꼭 사랑하는 연인한테 불러주는 것 같지만 아이들은 꼭 천사들이 세상 사람들한테 불러주는 것 같아 더 마음에 든다. [노래](https://www.youtube.com/watch?v=4WOSnzIGNmY)를 감상해보자. 
+
+# How Does Sound Become Community?
+
+What makes David Helfgott's performance feel like more than technical brilliance is that the sound was never his alone. He was on stage, and in the seats were people holding their breath, watching him. The long tension before the final note, the silence and then the eruption that followed — all of this is what made Rachmaninoff's Piano Concerto No. 3 something beyond music. It was an experience made possible only because everyone was there together, in the same room, at the same time.
+What, then, do we lose when a pandemic pushes performance onto the other side of a screen, and the roar of a stadium crowd is replaced by artificially engineered noise? The acoustician R. Murray Schafer coined the term "soundmark" to describe sounds that carry special meaning for a community — and according to Schafer, for such sounds to function as communal experience, three conditions must be in place: the sound must be produced together, it must ring out from a specific place, and the people receiving it must be physically present in the same space. Digitally reconstructed soundscapes shake all three conditions at once. Whether this amounts to the end of communal listening, or whether it signals the emergence of a new way of hearing together — one that no longer requires bodies in the same room — is precisely the question from which this research begins.
+
+# 소리는 어떻게 공동체가 되는가
+
+데이비드 헬프갓의 연주가 단순한 기교의 전시가 아니라 "평생 말하지 못한 것들의 총체"로 느껴지는 것은, 그 소리가 연주자 혼자만의 것이 아니었기 때문이다. 무대 위에 그가 있었고, 객석에는 숨을 참고 그를 바라보는 사람들이 있었다. 마지막 음이 울리기 직전의 긴장, 연주가 끝난 뒤 터져 나오는 침묵과 환호 — 이 모든 것이 라흐마니노프 협주곡 3번을 단순한 음악 이상의 무언가로 만들었다. 같은 공간에 함께 있었기 때문에 가능한 경험이었다.
+그렇다면 팬데믹 이후 공연이 스크린 너머로 옮겨가고, 경기장을 가득 채우던 관중의 함성이 인공적으로 설계된 소리로 대체될 때, 우리가 잃는 것은 정확히 무엇인가. 음향학자 R. 머레이 셰이퍼는 어떤 공동체에 특별한 의미를 지니는 소리를 '사운드마크'라고 불렀는데, 그에 따르면 이런 소리가 공동체적 경험으로 기능하려면 세 가지 조건이 필요하다. 그 소리를 함께 만들어낼 것, 같은 장소에서 울릴 것, 그리고 같은 공간에 몸으로 함께 있을 것. 디지털 기술로 재구성된 소리풍경은 이 세 조건을 동시에 흔들어놓는다. 이것이 공동체적 청취의 종말을 의미하는지, 아니면 신체적 공존 없이도 함께 듣는 새로운 방식이 생겨나고 있다는 신호인지 — 그 질문이 바로 이 연구가 출발하는 지점이다.
